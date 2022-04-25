@@ -1,0 +1,2 @@
+def register(first_name,last name,password);
+print("hai")
