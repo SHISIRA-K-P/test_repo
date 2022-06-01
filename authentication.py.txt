@@ -1,2 +1,0 @@
-def register(first_name,last name,password.email):
-print("hai")
